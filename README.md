@@ -1,4 +1,4 @@
-# Flight Price Monitoring Program
+# Flight Price Monitoring Program✈️
 
 This program helps you monitor flight prices from a predefined list of destinations and notifies you when the price drops below a certain threshold. It uses the Tequila API from Kiwi.com to check for available flights and the Twilio API for sending notifications.
 
